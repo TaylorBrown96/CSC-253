@@ -1,2 +1,2 @@
-# CSC-253-C-
+# CSC-253
 This is for my advanced C# class
